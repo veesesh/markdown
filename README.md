@@ -2,7 +2,7 @@
 
 <P>If you can really make easy for someone to understand your idea, bug, question then you are more likely gonna get help. Having a good communication skill be it on issue, readme files, social media like discord or slack is a great way to get noticed and get into the conversation. </p>
 
-### Here are some of the markdown commands to make your cotnent standout from others :
+### Here are some of the markdown commands to make your content standout from others :
 #### Check out the raw code of the README.md file
 
 # heading 1
