@@ -57,4 +57,5 @@ I do not agree to this
 
 - Backslash escapes treat special characters as regular text, not formatting syntax.
 
- \*literal asterisks\* \(literal paarentheses\)
+ \*literal asterisks\* 
+ \(literal parentheses\)
