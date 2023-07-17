@@ -21,6 +21,7 @@ Normal Text
 1. orderded list 1
 
 - [x] checkbox complete
+- [ ] checkbox incomplete
 - [Linkable Text](github.com/veesesh)
 
 |column 1 | column2 |
@@ -53,3 +54,8 @@ I agree to this
 > I have idea 2 also ....
 
 I do not agree to this
+
+- Backslash escapes treat special characters as regular text, not formatting syntax.
+
+ \*literal asterisks\* 
+ \(literal parentheses\)
