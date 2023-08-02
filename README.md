@@ -1,8 +1,8 @@
 # Markdown to write really good issue
 
-<p>If you are able to effectively simplify your ideas, bugs, or questions, you are more likely to receive assistance. Having good communication skills, whether it be in discussing problems, creating readme files, or engaging on platforms like Discord or Slack, greatly increases your chances of being noticed and engaging in meaningful conversations. </p>
+<P>If you can really make easy for someone to understand your idea, bug, question then you are more likely gonna get help. Having a good communication skill be it on issue, readme files, social media like discord or slack is a great way to get noticed and get into the conversation. </p>
 
-### Here are some markdown commands to make your content standout from others :
+### Here are some of the markdown commands to make your content standout from others :
 #### Check out the raw code of the README.md file
 
 # heading 1
